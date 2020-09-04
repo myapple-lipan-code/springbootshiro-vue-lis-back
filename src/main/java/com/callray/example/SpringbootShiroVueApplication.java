@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootshiroVueLisBackApplication {
+public class SpringbootShiroVueApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringbootshiroVueLisBackApplication.class, args);
+        SpringApplication.run(SpringbootShiroVueApplication.class, args);
     }
 
 }
